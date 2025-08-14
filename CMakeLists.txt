@@ -17,7 +17,7 @@ qt_add_qml_module(appqt_quick_and_qml_test
     VERSION 1.0
     QML_FILES
         Main.qml
-        page.qml
+        Page.qml
     RESOURCES
         assets/images/bahadir-sahinoglu-K2RdHxBZsz0-unsplash.jpg
 )
